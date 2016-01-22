@@ -2,7 +2,7 @@
 $servidor = "localhost"; //el servidor que utilizaremos, en este caso será el localhost
 $usuario = "root"; //El usuario que acabamos de crear en la base de datos
 $contrasenha = ""; //La contraseña del usuario que utilizaremos
-$BD = "Pito"; //El nombre de la base de datos
+$BD = "test"; //El nombre de la base de datos
  
 $conexion = mysql_connect($servidor, $usuario, $contrasenha);
  
